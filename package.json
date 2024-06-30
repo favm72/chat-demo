@@ -1,0 +1,14 @@
+{
+  "name": "chat-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "dev": "node run.js"
+  },
+  "workspaces": [
+    "server",
+    "client"
+  ]
+}
